@@ -104,6 +104,8 @@ platform_do_upgrade() {
 	netis,nx32u|\
 	nokia,ea0326gmp|\
 	openwrt,one|\
+	creatlentem,clt-r30b1|\
+	creatlentem,clt-r30b1-112m|\
 	netcore,n60|\
 	routerich,ax3000-ubootmod|\
 	tplink,tl-xtr8488|\
