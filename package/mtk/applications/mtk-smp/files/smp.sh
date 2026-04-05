@@ -754,6 +754,7 @@ setup_model()
 	*360,t7* |\
 	abt,asr3000* |\
 	*clt,r30b1* |\
+	*r30b1*|\
 	cmcc,a10* |\
 	xiaomi,mi-router-wr30u* |\
 	xiaomi,mi-router-ax3000t* |\
